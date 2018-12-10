@@ -4,6 +4,10 @@ public class SecondTestClass{
     }
     
     public void firstMethod() {
-       System.debug("First push");
+       System.debug('First push');
+    }
+    
+    public void secondMethod() {
+       System.debug('Second push');
     }
 }
